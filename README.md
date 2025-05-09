@@ -22,7 +22,7 @@ This **Image Converter** is a web application built with **React**, **TypeScript
 2. **Clone the Fork**:
    - Clone your forked repository to your local machine using:
      ```bash
-     git clone https://github.com/your-username/image-converter.git
+     git clone https://github.com/SChris-dev/image-converter.git
      ```
 3. **Install Dependencies**:
    - Navigate to the project directory and install the dependencies:
